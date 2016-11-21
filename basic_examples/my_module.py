@@ -1,4 +1,4 @@
 def sayHello():
-  print 'Hello'
+  print 'Hello, dude, '
 
 print 'Module ', __name__, ' initialized'
